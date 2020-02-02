@@ -234,7 +234,7 @@ class PhoneNumberInput_ extends React.PureComponent {
 	}
 
 	// Toggles the `--focus` CSS class.
-	_onFocus = () => this.setState({ isFocused: true })
+	_onFocus = () => true
 
 	// Toggles the `--focus` CSS class.
 	_onBlur = () => this.setState({ isFocused: false })
