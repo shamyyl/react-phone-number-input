@@ -1,6 +1,6 @@
 {
   "name": "react-phone-number-input",
-  "version": "3.0.16",
+  "version": "3.0.17",
   "description": "Telephone number input React component",
   "main": "min/index.commonjs.js",
   "module": "min/index.js",
@@ -69,7 +69,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/catamphetamine/react-phone-number-input.git"
+    "url": "git+https://github.com/shamyyl/react-phone-number-input.git"
   },
   "keywords": [
     "react",
@@ -84,5 +84,5 @@
   "bugs": {
     "url": "https://github.com/catamphetamine/react-phone-number-input/issues"
   },
-  "homepage": "https://github.com/catamphetamine/react-phone-number-input#readme"
+  "homepage": "https://github.com/shamyyl/react-phone-number-input#readme"
 }
